@@ -1,0 +1,9 @@
+- Build a website using PHP and Bootstrap.
+- Pages :
+	Story   = Synopsis
+	Trailer = Embed Directly From Youtube
+	Gallery = Responsive Image Use Carousel
+
+===WORKSHOP===
+Materi :
+	- 
